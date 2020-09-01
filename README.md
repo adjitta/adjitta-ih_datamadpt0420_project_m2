@@ -47,6 +47,9 @@ conda install Matplotlib
         ├── processed
         └── results
 ```
+## Hypotesis Testing
+1. We reject the null hypothesis, the average price of diamonds is below $ 4000.
+2. Sub-Test 3: Ideal cut + color D vs. Ideal cut + color E: P > 0.05
 ## Conclusions 
 1. x,y, and z have a very strong relation with price but surprisingly depth (which comes from x,y, and z) doesn't has a significant relation with price.
 2. Carat has a strong relation with price
